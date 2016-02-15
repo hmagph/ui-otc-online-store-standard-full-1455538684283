@@ -95,6 +95,9 @@ function orderItem(itemID){
 		<td><span class="pageTitle"><h1>Microservices Sample</h1></span></td> 
 	</tr>
 </table>
+<hr>
+<hr>
+<hr>
 <body onload="loadItems(items)">
 	<div class="container">
 		<div id='boxes' class="notes"></div>
